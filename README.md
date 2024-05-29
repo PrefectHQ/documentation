@@ -1,6 +1,7 @@
 # Prefect Versioned Documentation
 
 This repository contains Prefect's versioned documentation.
+This repository builds the Prefect 3.0 docs at [docs-3.prefect.io](https://docs-3.prefect.io) temporarily.
 
 Mintlify is used to host the documentation.
 
