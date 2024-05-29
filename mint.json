@@ -19,6 +19,9 @@
     "3.0rc",
     "2.19.x"
   ],
+  "feedback": {
+    "thumbsRating": true
+  },
   "tabs": [
     {
       "name": "API References",
