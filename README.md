@@ -2,7 +2,7 @@
 
 Mintlify is used to host and build the documentation.
 
-This repository builds the Prefect 3.0 docs at [docs-3.prefect.io](https://docs-3.prefect.io) temporarily.
+This repository builds the Prefect 3.0rc docs at [docs-3.prefect.io](https://docs-3.prefect.io) temporarily.
 2.x docs are still hosted at [docs.prefect.io](https://docs.prefect.io), although they are being ported to Mintlify.
 
 ## Getting started
