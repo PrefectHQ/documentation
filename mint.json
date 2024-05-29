@@ -1,7 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Prefect",
-  "logo": "/logo.svg",
+  "logo": {
+    "light": "/logos/logo-word-black.svg",
+    "dark": "/logos/logo-word-white.svg"
+  },
   "modeToggle": {
     "default": "dark",
     "isHidden": true
