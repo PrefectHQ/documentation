@@ -9,7 +9,7 @@
     "default": "dark",
     "isHidden": false
   },
-  "favicon": "/favicon.png",
+  "favicon": "/logos/favicon.png",
   "colors": {
     "primary": "#2D6DF6",
     "light": "#5F92FF",
